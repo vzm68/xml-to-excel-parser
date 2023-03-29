@@ -1,3 +1,5 @@
+<!--Source XML file template, for understanding the elements and attributes with which I work in this case.-->
+
 <?xml version='1.0' encoding='utf-8'?>
 <yml_catalog date="2023-03-29 23:45">
 	<shop>
@@ -11,12 +13,8 @@
 				<vendorCode>00002</vendorCode>
 				<vendor>Gemini</vendor>
 				<stock_quantity>1000</stock_quantity>
-				<name>
-					 Дріп-кава Gemini Brazil Mogiana 20 шт 
-				</name>
-				<description>
-					 &lt;p&gt;Дріп-пакети &amp;mdash; кава для заварювання в чашці без додаткових аксесуарів. Зручний та швидкий спосіб приготування в поїздках, вдома чи в офісі, тому що не вимагає особливих зусиль і дорогого устаткування.&lt;/p&gt;&lt;p&gt;Походження: Бразилія, Моджиана&lt;/p&gt;&lt;p&gt;Метод обробки: Natural&lt;/p&gt;&lt;p&gt;Смак: карамель, волоський горіх, молочний шоколад&lt;/p&gt;&lt;p&gt;Спосіб приготування:&amp;nbsp;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Відкрити пакет, відірвати стрічку від паперового дріпа та встановити його на чашку.&lt;/li&gt;&lt;li&gt;Щоб змочити всю каву, влити невелику кількість фільтрованої води, нагрітої до 91-95&amp;deg;С.&lt;/li&gt;&lt;li&gt;Повільно залити увесь фільтр водою і дати їй стекти. Повторити цю процедуру ще двічі і отримаєте приблизно 180 мл кави.&lt;/li&gt;&lt;li&gt;Після повного протікання води зняти дріп-пакет з чашки і вже можна насолоджуватися смачною фільтр-кавою.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt; 
-				</description>
+				<name>Дріп-кава Gemini Brazil Mogiana 20 шт</name>
+				<description>Some decription.</description>
 				<param name="Тип кави">Дріпи</param>
 				<param name="Кількість">20шт</param>
 				<param name="Сорт кави">Арабіка</param>
