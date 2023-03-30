@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from openpyxl import load_workbook
 
 # get import XML file
-tree = ET.parse('rozetkaxml.xml')
+tree = ET.parse('template.xml')
 root = tree.getroot()
 offers = root.find('shop/offers')
 

@@ -7,7 +7,7 @@ ws = wb.active
 ws.append(['ID', 'Name', 'Price', 'Old price', 'Stock', 'Description', 'IMG', 'Params[beta]'])
 
 # get data from XML file
-with open("rozetkaxml.xml", "r", encoding='UTF-8') as f:
+with open("template.xml", "r", encoding='UTF-8') as f:
     xml_string = f.read()
 
 xml_dict = xmltodict.parse(xml_string)
